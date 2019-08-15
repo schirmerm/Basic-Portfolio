@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    
+}
+body{   
+   font-family: 'Times New Roman', Times, serif;  
+}
+nav{
+    background: beige;
+}
+.navbar{
+    float: right;
+    padding: 5px;
+}
+header{
+    padding: relative;
+   
+    font: white;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    
+}
+
+
+section{
+}
+#aboutme{
+}
+#bio{
+}
+
