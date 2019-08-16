@@ -3,30 +3,29 @@
     
 }
 body{   
-   font-family: 'Times New Roman', Times, serif;  
+   font-family: 'Times New Roman', Times, serif;
+   width: 100%; 
+   margin: 0px; 
 }
 nav{
-    background: beige;
+    background: beige;  
+    text-align: center; 
 }
-.navbar{
-    float: right;
-    padding: 5px;
-}
-header{
-    padding: relative;
-   
-    font: white;
-}
-
-ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-
+h1{
     
 }
-
-
+.navbar{  
+    display: inline;
+   
+}
+#header1{
+   display: inline;
+    font: white; 
+    background: gray;   
+}
+#background1{
+    
+}
 section{
 }
 #aboutme{
