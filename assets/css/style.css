@@ -6,22 +6,43 @@ body{
    font-family: 'Times New Roman', Times, serif;
    width: 100%; 
    margin: 0px; 
+   background: red;
 }
 nav{
     background: beige;  
     text-align: center; 
+    display: flex;
+    justify-content: space-between
 }
 h1{
     
 }
 .navbar{  
     display: inline;
-   
+    position: relative;
+   background: gray;
+   padding: 17px;
+}
+header{
+    background: gray;
+    width: 240px;
+    position:relative;
+    left: 220px;
+    padding: 15px;
 }
 #header1{
-   display: inline;
-    font: white; 
-    background: gray;   
+   display: inline; 
+   font: white;
+}
+.aboutmep{
+    width: 1000px;
+    margin-left:14%;
+    margin-right: 20%;
+    background: white;
+    border: solid;
+    padding: 25px;
+    margin-top: 68px;
+    
 }
 #background1{
     
